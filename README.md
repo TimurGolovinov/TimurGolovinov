@@ -31,14 +31,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=timurgolovinov&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timurgolovinov&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
 ## 🌊 Beyond Code
 🏄 Kitesurfing | 🧠 Neuro-tech & Human Behavior | 🛠 Building AI prototypes for fun
 
