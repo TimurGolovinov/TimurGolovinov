@@ -1,16 +1,49 @@
-## Hi there 👋
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/timurgolovinov/timurgolovinov/main/assets/banner.svg" alt="Timur Golovinov — AI Systems Architect" />
+</p>
 
-<!--
-**TimurGolovinov/TimurGolovinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Timur 👋</h1>
+<h3 align="center">Senior SWE @ Jasper | AI Systems Architect | Fortune 500 Impact</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Badges -->
+<p align="center">
+  <a href="https://www.timurgolovinov.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/timurgolovinov/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:timurvalo@gmail.com"><img src="https://img.shields.io/badge/Email-FF5722?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+## 🚀 What I Do
+- **AI/LLM Engineering:** Generative AI, RAG pipelines, multi-agent systems  
+- **Enterprise SaaS:** Scalable architectures, performance optimization, high-impact features  
+- **Product Leadership:** From concept to ARR-driving features used by 20% of the Fortune 500
+
+---
+
+## 🛠 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,graphql,postgres,aws,gcp,docker,python" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=timurgolovinov&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timurgolovinov&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🌊 Beyond Code
+🏄 Kitesurfing | 🧠 Neuro-tech & Human Behavior | 🛠 Building AI prototypes for fun
+
+---
+
+<p align="center">
+  <i>"Build with curiosity. Ship with purpose."</i>
+</p>
