@@ -15,14 +15,14 @@
 
 ## 🚀 What I Do
 - **AI/LLM Engineering:** Generative AI, RAG pipelines, multi-agent systems
-- **Full Stack Software Development:** Specialise in Web Application
-- **Enterprise SaaS:** Scalable architectures, performance optimization, high-impact features  
+- **Full Stack Software Development:** Specialise in Web Application, performance optimization, high-impact features
+- **Enterprise SaaS:** Scalable architectures, high security and governance standards
 - **Product Leadership:** From concept to ARR-driving features used by 20% of the Fortune 500
 
 
 ## 🛠 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,graphql,postgres,aws,gcp,docker,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,ts,js,nodejs,nestjs,react,nextjs,graphql,postgres,aws,gcp,docker,python" />
 </p>
 
 
