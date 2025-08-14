@@ -12,21 +12,18 @@
   <a href="mailto:timurvalo@gmail.com"><img src="https://img.shields.io/badge/Email-FF5722?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
 
 ## 🚀 What I Do
 - **AI/LLM Engineering:** Generative AI, RAG pipelines, multi-agent systems  
 - **Enterprise SaaS:** Scalable architectures, performance optimization, high-impact features  
 - **Product Leadership:** From concept to ARR-driving features used by 20% of the Fortune 500
 
----
 
 ## 🛠 Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,graphql,postgres,aws,gcp,docker,python" />
 </p>
 
----
 
 ## 🌊 Beyond Code
 🏄 Kitesurfing | 🧠 Neuro-tech & Psychology | 🛠 Always building
