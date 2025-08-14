@@ -27,5 +27,5 @@
 
 
 ## 🌊 Beyond Code
-🏄 Kitesurfing | 🧠 Neuro-tech & Psychology | 🛠 Always building
+🏄 Kitesurfing | 🧠 Neurotech & Psychology | 🛠 Always building
 
