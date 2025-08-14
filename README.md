@@ -1,9 +1,6 @@
 <!-- Profile Header -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/timurgolovinov/timurgolovinov/main/assets/banner.svg" alt="Timur Golovinov — AI Systems Architect" />
-</p>
 
-<h1 align="center">Hi, I'm Timur 👋</h1>
+<h1 align="center">Hi, I'm Tim 👋</h1>
 <h3 align="center">Senior SWE @ Jasper | AI Systems Architect | Fortune 500 Impact</h3>
 
 ---
@@ -32,10 +29,5 @@
 ---
 
 ## 🌊 Beyond Code
-🏄 Kitesurfing | 🧠 Neuro-tech & Human Behavior | 🛠 Building AI prototypes for fun
+🏄 Kitesurfing | 🧠 Neuro-tech & Psychology | 🛠 Always building
 
----
-
-<p align="center">
-  <i>"Build with curiosity. Ship with purpose."</i>
-</p>
