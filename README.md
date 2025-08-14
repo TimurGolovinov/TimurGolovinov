@@ -14,7 +14,8 @@
 
 
 ## 🚀 What I Do
-- **AI/LLM Engineering:** Generative AI, RAG pipelines, multi-agent systems  
+- **AI/LLM Engineering:** Generative AI, RAG pipelines, multi-agent systems
+- **Full Stack Software Development:** Specialise in Web Application
 - **Enterprise SaaS:** Scalable architectures, performance optimization, high-impact features  
 - **Product Leadership:** From concept to ARR-driving features used by 20% of the Fortune 500
 
