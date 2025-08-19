@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 
 <h1 align="center">Hi, I'm Tim 👋</h1>
-<h3 align="center">Senior SWE @ Jasper | AI Systems Architect | Fortune 500 Impact</h3>
+<h3 align="center">Senior SWE @ Jasper. Love AI & neuroscience</h3>
 
 ---
 
@@ -15,8 +15,7 @@
 
 ## 🚀 What I Do
 - **AI/LLM Engineering:** Generative AI, RAG pipelines, multi-agent systems
-- **Full Stack Software Development:** Specialise in Web Application, performance optimization, high-impact features
-- **Enterprise SaaS:** Scalable architectures, high security and governance standards
+- **Full Stack Software Development:** Specialise in enterprise-grade web application
 - **Product Leadership:** From concept to ARR-driving features used by 20% of the Fortune 500
 
 
