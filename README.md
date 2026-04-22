@@ -1,7 +1,6 @@
 <!-- Profile Header -->
 
 <h1 align="center">Hi, I'm Tim 👋</h1>
-<h3 align="center">Senior SWE @ Jasper. Love AI & neuroscience</h3>
 
 ---
 
